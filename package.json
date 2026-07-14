@@ -1,0 +1,21 @@
+{
+  "name": "html-in-canvas-zh",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "HTML-in-Canvas 中文可视化网站 · React + Three.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.3",
+    "vite": "^8.1.4"
+  }
+}
